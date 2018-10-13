@@ -1,0 +1,5 @@
+int main(void) {
+    printf("Hellow good people \n");
+
+    return EXIT_SUCCESS;
+}
